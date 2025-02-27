@@ -1,3 +1,7 @@
+
+// customed singly linked list
+// addFirst, addLast, display
+
 public class SinglyLinkedList {
     private Node head;
     private Node tail;

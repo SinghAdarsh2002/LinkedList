@@ -5,5 +5,11 @@ public class Main {
         listAddedFirst.addFirst(2);
         listAddedFirst.addFirst(1);
         listAddedFirst.display();
+
+        SinglyLinkedList listAddedLast = new SinglyLinkedList();
+        listAddedLast.addLast(7);
+        listAddedLast.addLast(8);
+        listAddedLast.addLast(9);
+        listAddedLast.display();
     }
 }
